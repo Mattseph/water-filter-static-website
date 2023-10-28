@@ -1,6 +1,6 @@
 //typing effect
 function typeEffect() {
-    const text = "Give your Workout \nA New Style!";
+    const text = "Lorem ipsum  \nA dolor sit amet!";
     const element = document.getElementById('typed-text');
     let i = 0;
   
@@ -26,4 +26,15 @@ function typeEffect() {
   window.onload = function() {
     typeEffect();
   };
-  
+
+var menuItems=document.getElementById("MenuItems");
+            
+MenuItems.style.maxHeight="0px";
+function menutoggle(){
+    if(MenuItems.style.maxHeight == "0px"){
+        MenuItems.style.maxHeight="200px";
+    }
+    else{
+         MenuItems.style.maxHeight="0px";
+    }
+}
