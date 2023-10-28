@@ -1,6 +1,6 @@
 //typing effect
 function typeEffect() {
-    const text = "Lorem ipsum  \nA dolor sit amet!";
+    const text = " Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum  \nA dolor sit amet!";
     const element = document.getElementById('typed-text');
     let i = 0;
   
