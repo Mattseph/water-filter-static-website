@@ -41,7 +41,7 @@
                     <a href="./product/" class="btn">Explore Now &#8594;</a>
                 </div>
                 <div class="col-2">
-                    <img src="./assets/images/Picture4.png" alt="Picture Here Company Ads or something| dimension: 2094 X 1806 pixel">
+                    <img src="./assets/images/landing-page.png" alt="Picture Here Company Ads or something| dimension: 2094 X 1806 pixel">
                 </div>
             </div>
         </div>
