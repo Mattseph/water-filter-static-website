@@ -51,7 +51,7 @@
         </div>
         <div class="col-4">
             <a href="reverse-osmosis.php">
-                <img src="./../assets/images/multimedia-filter.png">
+                <img src="./../assets/images/reverse-osmosis1.png">
                 <h4>Reverse Osmosis</h4>
             </a>
 

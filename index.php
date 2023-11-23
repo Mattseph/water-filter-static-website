@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width-device-width, initial-scale=1.0">
     <title>Phalk Water</title>
+    <link rel="icon" type="image/png" href="./assets/images/favicon.png">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
@@ -94,7 +95,7 @@
                 <p>$35.00</p>
             </div>
             <div class="col-4">
-                <a href="./product/reverse-osmosis.php"><img src="./assets/images/multimedia-filter.png"></a>
+                <a href="./product/reverse-osmosis.php"><img src="./assets/images/reverse-osmosis.png"></a>
                 <h4>Reverse Osmosis</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>
@@ -136,7 +137,7 @@
                 <p>$21.00</p>
             </div>
             <div class="col-4">
-                <a href="./product/reverse-osmosis.php"><img src="./assets/images/multimedia-filter.png"></a>
+                <a href="./product/reverse-osmosis.php"><img src="./assets/images/reverse-osmosis.png"></a>
                 <h4>Reverse Osmosis</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>
