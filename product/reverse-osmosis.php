@@ -10,7 +10,6 @@
         <div class="col-2">
             <img src="./../assets/images/reverse-osmosis.png" width="100%" id="productImg">
 
-
             <div class="small-img-row">
                 <div class="small-img-col">
                     <img src="./../assets/images/reverse-osmosis.png" width="100%" class="small-img">
@@ -30,25 +29,16 @@
         <div class="col-2">
             <h1>Reverse Osmosis</h1>
             <h4>$50.00</h4>
-            <select>
-                <option>Select info here can be size</option>
-                <option>lorem<!--Small (s)--></option>
-                <option>lorem</option><!--Medium (M)--></option>
-                <option>lorem<!--Large (L)--></option>
-                <option>lorem<!--XL--></option>
-                <option>lorem<!--XXL--></option>
-            </select>
-            <input type="number" values="1">
-            <a href="./../cart.html" class="btn">Add to Cart</a>
-            <h3>Product Details <i class="fa fa-indent"></i></h3>
+            <!-- <input type="number" value="1">
+            <a href="./../cart.html" class="btn">Add to Cart</a> -->
+            <h3>Product Description <i class="fa fa-indent"></i></h3>
             <br>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit amet quidem culpa quos. Ea ab ullam eos provident aspernatur culpa?</p>
+            <p>Filtration system using a semipermeable membrane and pressure to remove a wide variety of contaminants down to <b>0.0001 microns</b>.</p>
         </div>
     </div>
 </div>
 
 
-<!----------------------------------Title------------------------------------->
 
 <!----------------------------------products------------------------------------->
 <!------------------------------Testimonial---------------------------------->

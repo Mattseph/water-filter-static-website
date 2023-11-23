@@ -8,15 +8,15 @@
     <!--<h2 class="title" >Featured Products</h2>-->
     <div class="row">
         <div class="col-2">
-            <img src="./../assets/images/water-softener.png" width="100%" id="productImg">
+            <img src="./../assets/images/water-softener2.png" width="100%" id="productImg">
 
 
             <div class="small-img-row">
                 <div class="small-img-col">
-                    <img src="./../assets/images/water-softener.png" width="100%" class="small-img">
+                    <img src="./../assets/images/water-softener2.png" width="100%" class="small-img">
                 </div>
                 <div class="small-img-col">
-                    <img src="./../assets/images/water-softener.png" width="100%" class="small-img">
+                    <img src="./../assets/images/water-softener2.png" width="100%" class="small-img">
                 </div>
                 <div class="small-img-col">
                     <img src="./../assets/images/water-softener.png" width="100%" class="small-img">
@@ -30,19 +30,11 @@
         <div class="col-2">
             <h1>Water Softener</h1>
             <h4>$50.00</h4>
-            <select>
-                <option>Select info here can be size</option>
-                <option>lorem<!--Small (s)--></option>
-                <option>lorem</option><!--Medium (M)--></option>
-                <option>lorem<!--Large (L)--></option>
-                <option>lorem<!--XL--></option>
-                <option>lorem<!--XXL--></option>
-            </select>
-            <input type="number" values="1">
-            <a href="./../cart.html" class="btn">Add to Cart</a>
-            <h3>Product Details <i class="fa fa-indent"></i></h3>
+            <!-- <input type="number" value="1">
+            <a href="./../cart.html" class="btn">Add to Cart</a> -->
+            <h3>Product Description <i class="fa fa-indent"></i></h3>
             <br>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit amet quidem culpa quos. Ea ab ullam eos provident aspernatur culpa?</p>
+            <p>Unit containing resins to perform ion exchange removing hard minerals, iron, and organic compounds. Recharged with sodium.</p>
         </div>
     </div>
 </div>
