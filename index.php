@@ -27,26 +27,31 @@
                         <li><a href="./product/">Products</a></li>
                         <li><a href="#">About</a></li>
                         <li><a href="#">Contact</a></li>
-
-
                     </ul>
                 </nav>
+
                 <a href="#"><img src="./assets/images/cart.png" width="30px" height="30px"></a>
                 <img src="./assets/images/menu.png" class="menu-icon" onClick="menutoggle()">
             </div>
+        </div>
+    </div>
 
+    <div class="landing-page">
+        <div class="container">
             <div class="row">
                 <div class="col-2">
                     <h1>Phalk Water</h1>
                     <p id="typed-text"><br></p>
                     <a href="./product/" class="btn">Explore Now &#8594;</a>
                 </div>
+
                 <div class="col-2">
                     <img src="./assets/images/landing-page.png" alt="Picture Here Company Ads or something| dimension: 2094 X 1806 pixel">
                 </div>
             </div>
         </div>
     </div>
+
 
     <!------------------------------ featured categories------------------------------>
     <!-- <div class="categories">
@@ -146,7 +151,7 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
-                <p>$09.00</p>
+                <p>$9.00</p>
             </div>
         </div>
         <!--new row for the latest product-->
@@ -157,13 +162,14 @@
         <div class="small-container">
             <div class="row">
                 <div class="col-2">
-                    <img src="./assets/images/water-softener.png" offer-img">
+                    <img src="./assets/images/water-softener.png">
                 </div>
                 <div class="col-2">
-                    <p>Lorem ipsum dolor sit.</p>
-                    <h1>Lorem, ipsum.</h1>
-                    <small> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid error nostrum ad fuga iste modi nihil sequi, ab fugit ipsa. </small><br>
-                    <a href="products.html" class="btn">Buy Now &#8594;</a>
+                    <h1>Water Softener</h1>
+
+                    <p>Unit containing resins to perform ion exchange removing hard minerals, iron, and organic compounds. Recharged with sodium.</p>
+                    <br>
+                    <a href="./product/water-softener.php" class="btn">See Details &#8594;</a>
                 </div>
             </div>
         </div>
@@ -201,19 +207,14 @@
     <!----------------------------------footer------------------------------------->
     <div class="footer">
         <div class="container">
-
             <div class="row">
-                <div class="footer-col-1">
-                    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, accusamus.</p>
-                    <div class="app-logo">
-                        <img src="./assets/images/logo.png" alt="store logo">
-                        <img src="./assets/images/" alt="partner logo">
-                    </div>
-                </div>
+
                 <div class="footer-col-2">
+                    <img src="./assets/images/favicon.png" alt="store logo">
                     <img src="./assets/images/logo.png" alt="store logo">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, accusamus.</p>
+                    <p>Whole House Filter and Softener</p>
+                    <p>Reverse Osmosis Drinking Systems</p>
+                    <p>Antioxidant Alkaline Filters</p>
                 </div>
                 <div class="footer-col-3">
                     <h3>Useful Links</h3>
@@ -235,10 +236,10 @@
                 </div>
 
             </div>
-
         </div>
     </div>
+
 </body>
-<script src="./assets/js/main.js" defer></script>
+
 
 </html>

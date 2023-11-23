@@ -2,17 +2,12 @@
 <div class="footer">
     <div class="container">
         <div class="row">
-            <div class="footer-col-1">
-                <h3>Lorem ipsum dolor sit amet consectetur.</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, accusamus.</p>
-                <div class="app-logo">
-                    <img src="./../assets/images/logo.png" alt="store logo here">
-                    <img src="./../assets/images/" alt="partner logo">
-                </div>
-            </div>
             <div class="footer-col-2">
+                <img src="./../assets/images/favicon.png" alt="store logo here">
                 <img src="./../assets/images/logo.png" alt="store logo here">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, accusamus.</p>
+                <p>Whole House Filter and Softener</p>
+                <p>Reverse Osmosis Drinking Systems</p>
+                <p>Antioxidant Alkaline Filters</p>
             </div>
             <div class="footer-col-3">
                 <h3>Useful Links</h3>
@@ -35,7 +30,8 @@
         </div>
     </div>
 </div>
-</body>
+
 <script src="./assets/js/main.js" defer></script>
+</body>
 
 </html>

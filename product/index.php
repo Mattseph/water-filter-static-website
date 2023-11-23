@@ -23,7 +23,6 @@
                 <h4>Water Softener</h4>
             </a>
 
-
             <div class="rating">
 
                 <i class="fa fa-star"></i>
@@ -51,7 +50,7 @@
         </div>
         <div class="col-4">
             <a href="reverse-osmosis.php">
-                <img src="./../assets/images/reverse-osmosis1.png">
+                <img src="./../assets/images/reverse-osmosis.png">
                 <h4>Reverse Osmosis</h4>
             </a>
 
