@@ -1,4 +1,4 @@
-<?php include "./includes/header.php"; ?>
+<?php include "./../includes/header.php"; ?>
 
 
 <!------------------------------ Single product details------------------------------>
@@ -8,20 +8,21 @@
     <!--<h2 class="title" >Featured Products</h2>-->
     <div class="row">
         <div class="col-2">
-            <img src="./../assets/images/water-softener.png" width="100%" id="productImg">
+            <img src="./../assets/images/reverse-osmosis.png" width="100%" id="productImg">
+
 
             <div class="small-img-row">
                 <div class="small-img-col">
-                    <img src="./../assets/images/water-softener.png" width="100%" class="small-img">
+                    <img src="./../assets/images/reverse-osmosis.png" width="100%" class="small-img">
                 </div>
                 <div class="small-img-col">
-                    <img src="./../assets/images/water-softener.png" width="100%" class="small-img">
+                    <img src="./../assets/images/reverse-osmosis.png" width="100%" class="small-img">
                 </div>
                 <div class="small-img-col">
-                    <img src="./../assets/images/water-softener.png" width="100%" class="small-img">
+                    <img src="./../assets/images/reverse-osmosis.png" width="100%" class="small-img">
                 </div>
                 <div class="small-img-col">
-                    <img src="./../assets/images/water-softener.png" width="100%" class="small-img">
+                    <img src="./../assets/images/reverse-osmosis.png" width="100%" class="small-img">
                 </div>
             </div>
         </div>
