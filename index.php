@@ -6,11 +6,12 @@
     <meta name="viewport" content="width-device-width, initial-scale=1.0">
     <title>Phalk Water</title>
     <link rel="icon" type="image/png" href="./assets/images/favicon.png">
-    <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap"
+        rel="stylesheet">
     <!--added a cdn link by searching font awesome4 cdn and getting this link from https://www.bootstrapcdn.com/fontawesome/ this url*/-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
     <script src="./assets/js/main.js" defer></script>
 </head>
 
@@ -26,7 +27,7 @@
                         <li><a href="./">Home</a></li>
                         <li><a href="./product/">Products</a></li>
                         <li><a href="#">About</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="./contact-us/">Contact</a></li>
                     </ul>
                 </nav>
 
@@ -46,7 +47,8 @@
                 </div>
 
                 <div class="col-2">
-                    <img src="./assets/images/landing-page.png" alt="Picture Here Company Ads or something| dimension: 2094 X 1806 pixel">
+                    <img src="./assets/images/landing-page.png"
+                        alt="Picture Here Company Ads or something| dimension: 2094 X 1806 pixel">
                 </div>
             </div>
         </div>
@@ -167,7 +169,8 @@
                 <div class="col-2">
                     <h1>Water Softener</h1>
 
-                    <p>Unit containing resins to perform ion exchange removing hard minerals, iron, and organic compounds. Recharged with sodium.</p>
+                    <p>Unit containing resins to perform ion exchange removing hard minerals, iron, and organic
+                        compounds. Recharged with sodium.</p>
                     <br>
                     <a href="./product/water-softener.php" class="btn">See Details &#8594;</a>
                 </div>
