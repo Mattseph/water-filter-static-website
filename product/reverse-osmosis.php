@@ -39,6 +39,14 @@
 </div>
 
 
+<div class="small-container single-product">
+
+
+    <h2 class="title">Component Description</h2>
+    <div class="row">
+        <img src="./../assets/images/reverse-osmosis-components.png" width="100%">
+    </div>
+</div>
 
 <!----------------------------------products------------------------------------->
 <!------------------------------Testimonial---------------------------------->
