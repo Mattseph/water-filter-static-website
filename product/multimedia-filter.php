@@ -37,10 +37,14 @@
     </div>
 </div>
 
+<div class="small-container single-product">
+    <h2 class="title">Component Description</h2>
+    <div class="row">
+        <img src="./../assets/images/multimedia-filter-components.png" width="90%" height="90%">
+    </div>
+</div>
 
-<!----------------------------------Title------------------------------------->
 
-<!----------------------------------products------------------------------------->
 <!------------------------------Testimonial---------------------------------->
 <div class="testimonial">
     <div class="small-container">
