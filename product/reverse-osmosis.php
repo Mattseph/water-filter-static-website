@@ -1,4 +1,6 @@
-<?php include "./../includes/header.php"; ?>
+<?php 
+$page = "Reverse Osmosis - Phalk Water";
+include "./../includes/header.php"; ?>
 
 
 <!------------------------------ Single product details------------------------------>
@@ -44,7 +46,7 @@
 
     <h2 class="title">Component Description</h2>
     <div class="row">
-        <img src="./../assets/images/reverse-osmosis-components.png" width="100%">
+        <img src="./../assets/images/reverse-osmosis-components.png" width="90%" height="90%">
     </div>
 </div>
 

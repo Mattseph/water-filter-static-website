@@ -1,4 +1,7 @@
-<?php include "./../includes/header.php"; ?>
+<?php 
+$page = "Multimedia Filter - Phalk Water";
+include "./../includes/header.php"; 
+?>
 
 
 <!------------------------------ Single product details------------------------------>

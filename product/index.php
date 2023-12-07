@@ -1,4 +1,7 @@
-<?php include "./../includes/header.php"; ?>
+<?php
+$page = "Products - Phalk Water";
+include "./../includes/header.php";
+?>
 
 
 <!------------------------------ Products------------------------------>
