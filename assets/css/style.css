@@ -145,7 +145,7 @@ p{
 }
 .title{
     text-align: center;
-    margin: 60px auto 50px;
+    margin: 60px auto 20px;
     position: relative;
     line-height: 60px;
     color: #555;
@@ -191,7 +191,7 @@ small{
 
 /*-----------------------Testimonial -----------------------*/
 .testimonial{
-    padding-top: 100px;
+    padding-top: 20px;
 }
 .testimonial .col-3{
     text-align: center;
